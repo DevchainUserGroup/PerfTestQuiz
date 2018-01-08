@@ -193,7 +193,7 @@ contract PerfTestQuiz
           yy += xx;
       }
         
-      return y; 
+      return yy; 
     }
 
     /* ... TO BE COMMENTED */
@@ -204,6 +204,6 @@ contract PerfTestQuiz
             yy +=  xx;
         }
         
-        return y; 
+        return yy; 
     }
 }
